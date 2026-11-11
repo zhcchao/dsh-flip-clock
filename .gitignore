@@ -1,0 +1,4 @@
+.DS_Store
+node_modules/
+dist/dsh-flip-clock-0.1.0.zip
+dist/local-dsh-flip-clock-0.1.0.tgz
